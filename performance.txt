@@ -1,0 +1,238 @@
+学術雑誌掲載論文
+
+山崎一生, 長谷川誠, 五十嵐智，岡田貞実，``三角平面パッチを用いた多階調画像デ－タの圧縮，''電子情報通信学会論文誌，J75-D-II，6，pp.1038-1047，June 1992．
+I.　Yamasaki, M.　Hasegawa, T. Ikarashi, and S. Okada, ``Data Compression of Digital Images with Gray Level Using Triangular Plane Patches,'' Systems and Computers in Japan, Vol.24, No.10, pp.51-61, Oct. 1993.
+大島透, 長谷川誠, 山崎一生, 古川貴雄，``濃淡画像の区分線型近似におけるブロック分割方法，''電子情報通信学会論文誌，J78-D-II，5，pp.776-782，May 1995．
+T.　Ohshima, M.　Hasegawa, T.　Furukawa, and I.　Yamasaki, ``Segmentation of Gray Scale Images in Piecewise Linear Approximation,'' Systems and Computers in Japan, Vol.27, No.1, pp.69-76 Jan. 1996.
+長谷川誠，山崎一生，``可変ブロック分割と双1次曲面パッチによる画像データの圧縮，''電子情報通信学会論文誌，J84-D-II，7，pp.1399-1408，July 2001.
+長谷川誠，山崎一生，``可変ブロック分割と双1次曲面パッチ近似による濃淡画像の2チャネル符号化，''映像情報メディア学会誌，55，12，pp.1680-1684，Dec. 2001.
+長谷川誠，山崎一生，``画像の可変ブロック分割符号化における双1次曲面パッチの最小2乗推定，''情報処理学会論文誌，43，1，pp.63-73，Jan. 2002．
+M.　Hasegawa and I.　Yamasaki, ``Image Data Compression with Nonuniform Block Segmentation and Luminance Approximation Using Bilinear Curved Surface Patch,'' Systems and Computers in Japan, Vol.33, No.10, pp.31-40, Oct. 2002.
+長谷川誠，三河賢治，``ディジタル濃淡画像の三角平面パッチによるSVG形式への変換，''映像情報メディア学会誌 ，57，10，pp.1337-1341，Oct. 2003．
+長谷川誠，田島慎一，``Watershed分割によるSemantic ObjectのRidgelet表現，''映像情報メディア学会誌 ，59，5，pp.786-790，May 2005．
+三河賢治，長谷川誠，``再帰的に二等分割された直角二等辺三角形上の頂点数を求めるアルゴリズム，''映像情報メディア学会誌，59，7，pp.1042-1045，July 2005．
+田中一基，長谷川誠，黒瀬能聿，小林規矩男，``空手道の攻め技のタイミングを習得支援するためのバーチャル練習システム，''教育システム情報学会誌，Vol.24，No.4，pp.231-241，2007．
+K. Tanaka, T. Kataoka and M. Hasegawa, ``Virtual Sport System for Optimum Exercising Based on a User Model,'' Lecture Notes in Computer Science vol.5670, pp.283-290, Springer-Verlag, Heidelberg, 2009. doi>10.1007/978-3-642-03364-3_34
+長谷川誠，``パターンマッチングにおける振幅限定対数ラドン変換法の提案，''電子情報通信学会論文誌，D，J92-D，No.10，pp.1720-1722，Oct. 2009．
+K. Tanaka, M. Hasegawa, T. Kataoka, and L. Katz, ``The Effect of Self-Position and Posture Information on Reaction Time,'' Int'l Journal of Computer Science in Sport, 9(3), pp.4-14, 2010.
+長谷川誠，金指正和，田中一基，片岡隆之，``振幅限定対数ラドン変換を用いた足跡画像の照合，''電子情報通信学会論文誌，Vol.J93-D，No.11，pp.2483-2494，Nov. 2010．
+B. Gaüzère, M. Hasegawa, L. Brun and S. Tabbone, ``Implicit and Explicit Graph Embedding: Comparison of both Approaches on Chemoinformatics Applications,'' Lecture Notes in Computer Science vol.7626, pp.510-518, Springer-Verlag, Heidelberg, 2012.
+M. Hasegawa and S. Tabbone, ``A local adaptation of the histogram Radon transform descriptor: an application to a shoeprint dataset,'' Lecture Notes in Computer Science vol.7626, pp.675-683, Springer-Verlag, Heidelberg, 2012.
+M. Hasegawa and S. Tabbone, ``Amplitude-only Log Radon Transform for Geometric Invariant Shape Descriptor,'' Pattern Recognition, vol. 47, 2, pp.643–658, Feb. 2014.
+M. Hasegawa and S. Tabbone, ``Histogram of Radon Transform with Angle Correlation Matrix for Distortion Invariant Shape Descriptor,'' Neurocomputing, In Press, Accepted Manuscript, 2015.
+国際会議
+
+M. Hasegawa and S. Tajima, ``A Ridgelet Representation of Semantic Objects Using Watershed Segmentation,'' Proc. of IEEE International Symposium on Communications and Information Technologies 2004 (ISCIT2004), pp.441-444, Sapporo, Oral, Japan, Oct. 2004.
+M. Hasegawa and S. Tajima, ``A Ridgelet Representation of Semantic Objects on Grayscale Pictures A Study of Object Rotation -,'' Proc. of International Workshop on Advanced Image Technology 2005 (IWAIT2005), pp.103-108, Jeju Island, Korea, Jan. 2005.
+M. Hasegawa, K. Tanaka, S. Ishihara, M. Kanezashi, and H. Moriwaki, ``A Proposal of Shoeprint Representation by the Ridgelet-Hough Transform,'' Proc. of International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC2006), Vol.1, pp.321-324, Oral, Chiang Mai, Thailand, July 2006.
+M. Hasegawa, K. Mikawa, E. Iwata, and H. Hirose, ``A Proposal of Position Error Correction for Vein Images Using Log-Polar Mapping,'' Proc. of International Workshop on Advanced Image Technology 2007 (IWAIT2007), Bangkok, Thailand, Jan. 2007.
+M. Hasegawa, ``Proposal of Pattern Matching Using Log Autocorrelation on Radon Transform,'' Proc. of IEEE International Symposium on Communications and Information Technologies 2007 (ISCIT2007), Oral, Sydney, Australia, Oct. 2007.
+M. Hasegawa, ``Recognition Performance of Pattern Matching Using Log Autocorrelation on Radon Transform,'' Proc. of International Workshop on Advanced Image Technology 2008 (IWAIT2008), Oral, Hsinchu, Taiwan, Jan. 2008.
+M. Hasegawa, ``Proposal of Amplitude Only Logarithmic Radon Descriptor - A Performance Comparison of Matching Score -,'' Proc. of International Workshop on Advanced Image Technology 2009 (IWAIT2009), Seoul, Korea, Jan. 2009.
+M. Hasegawa, ``Proposal of Amplitude only Logarithmic Radon Transform for Pattern Matching - Relation with Fourier-Mellin Transform -,'' Proc. of IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS2008), Oral, Bangkok, Thailand, Feb. 2009.
+M. Hasegawa, ``Amplitude-only Logarithmic Radon Transform for Pattern Matching - A Study of Noise Effect on Recognition -,'' International Workshop on Graphics Recognition (GREC2009), pp.245-252, Oral, Rochelle, France, July 2009.
+K. Tanaka, T. Kataoka, and M. Hasegawa, ``Virtual Sport System for Optimum Exercising Based on a User Model,'' Edutainment 2009, Banff Canada, Aug. 2009.
+M. Hasegawa, ``A Study of 3-D Surface Registration Using Distance Map and 3-D Radon Transform,'' Computer Graphics, Computer Vision and Mathematics 2009 (GraVisMa), Oral, Czech Republic, Sept. 2009.
+M. Hasegawa, ``A proposal of 3-D surface model recognition using distance space and Radon transform,'' Proc. of International Workshop on Advanced Image Technology 2010 (IWAIT2010), Oral, Kuala Lumpur, Malaysia, Jan. 2010.
+T. Kataoka, K. Tanaka, and M. Hasegawa, ``Interactive Model for Human Resource Planning in Operating A Group of Different Cycle Time,'' The 21st IASTED International Conference on Modelling and Simulation (MS2010), pp. 322-329, Oral, Alberta, Canada, July 2010.
+M. Hasegawa and S. Tabbone,``A Shape Descriptor Combining Logarithmic-scale Histogram of Radon Transform and Phase-only Correlation Function,'' The Eleventh International Conference on Document Analysis and Recognition (ICDAR2011), pp.182-186, Poster, Beijing, China, Sep. 2011. ISBN:978-0-7695-4520-2 doi>10.1109/ICDAR.2011.45
+H. Yasuhara, E. Iwata, H. Kamanaka, K. Kobayashi, and M. Hasegawa,``Face Authentication Using SURF with ASM Guide,'' Proc. of International Workshop on Advanced Image Technology 2012 (IWAIT2012), Poster, Ho Chi Minh City, Vietnam, Jan. 2012.
+M. Hasegawa and S. Tabbone,``Affine Invariant Shape Matching Using Radon Transform and Dynamic Time Warping Distance,'' The 27th ACM Symposium on Applied Computing (ACM SAC2012), Oral, Riva del Garda, Italy, pp.777-781, Mar. 2012. ISBN:978-1-4503-0857-1 doi>10.1145/2245276.2245426 Best Paper Award.
+T. Kataoka, K. Tanaka, M. Kanezashi, and M. Hasegawa, ``An Information Sharing Method for Skilled Management Operations Based on Bayesian Network Inference,'' International Conference on Knowledge Management and Information Sharing (KMIS2012), Poster, Barcelona, Spein, Oct. 2012.
+B. Gaüzère, M. Hasegawa, L. Brun and S. Tabbone, ``Implicit and Explicit Graph Embedding: Comparison of both Approaches on Chemoinformatics Applications,'' International Workshops on Structural and Syntactic Pattern Recognition (SSPR2012), Poster, Hiroshima, Japan, Nov. 2012.
+M. Hasegawa and S. Tabbone, ``A local adaptation of the histogram Radon transform descriptor: an application to a shoeprint dataset,'' International Workshops on Statistical Techniques in Pattern Recognition (SPR2012), Poster, Hiroshima, Japan, Nov. 2012.
+R. Torres, M. Hasegawa, S. Tabbone, J. Almeida, J. Santos, B. Alberton, and P. Morellato, ``Shape-based Time Series Analysis for Remote Phenology Studies,'' IEEE International Geoscience and Remote Sensing Symposium, July 2013.
+M. Hasegawa and S. Tabbone, ``Affine Invariant Shape Matching using Histogram of Radon Transform and Angle Correlation Matrix,'' 3rd International Conference on Pattern Recognition Applications and Methods (ICPRAM2014), pp.21-29, Oral, Angers, France Mar. 2014.
+運営
+
+International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC2006), Chiang Mai, Thailand, July 2006，セッション座長
+IEEE International Symposium on Communications and Information Technologies 2007 (ISCIT2007), Sydney, Australia, Oct. 2007，セッション座長
+IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS2008), Bangkok, Thailand, Feb. 2009，セッション座長
+International Conference on Pattern Recognition Applications and Methods (ICPRAM), Mar. 2014-2015, Program Committee.
+学位論文
+
+長谷川誠，``区分的多項式近似による濃淡画像データの圧縮，''新大院博(工)第136号，新潟大学大学院自然科学研究科，2002．
+
+研究会・大会・研究報告
+
+長谷川誠，山崎一生，岡田貞実，``三角平面パッチを用いたカラー濃淡画像の圧縮，''電子情報通信学会信越支部大会，1991．
+長谷川誠，山崎一生，岡田貞実，``三角平面パッチを用いたカラー濃淡画像の圧縮，''信学技報，IE91/107，pp.1-16，1992．
+大島透，長谷川誠，山崎一生，岡田貞実，``三角平面パッチを用いた画像の分割方法の検討，''電子情報通信学会信越支部大会，pp.405-406，1992．
+長谷川誠，山崎一生，大島透，``信号波形の最小2乗法による折れ線近似，''電子情報通信学会信越支部大会，pp.407-408，1992．
+長谷川誠，山崎一生，李芒，``双１次曲面パッチを用いた濃淡画像の近似＜正弦関数を加えて近似を行った場合の一検討＞，''第６回電気学会東京支部新潟支所研究発表会予稿集，pp.67-68，1996．
+長谷川誠，山崎一生，``双1次曲面パッチを用いた濃淡画像データの圧縮における予測符号化の適用，''信学技報，IE97/64，OFS97-26， pp.1-6，1997．
+長谷川誠，山崎一生，``双1次曲面パッチを用いた濃淡画像の圧縮-予測符号化の導入-，''，D-11-13，信学ソ大，pp.105，1997．
+栗林孝行，中山良平，佐々木将人，阿達透，長谷川誠，間瀬憲一，青山友紀，仙石正和，``ギガビットネットワークを用いた遠隔ストレージ間編集用画像配信実験，''信学技報，CS99-145, CQ99-68, pp31-36，Feb. 2000．
+長谷川誠，山崎一生，``画像の可変ブロック符号化における双1次曲面パッチのあてはめ''，信学総大，D-11-11，pp.11，2001．
+長谷川誠，山崎一生，``濃淡画像の可変ブロック近似とDCTによる2チャネル符号化''，信学ソ大，D-11-16，pp.101，2001．
+M. Hasegawa, ``A Two-Channel Coder Using DCT and Patch Approximation Based on Quad-Tree Segmentation,'' PCSJ2002，P-2.18, pp.43-44，Nov. 2002．
+堀川英明，長谷川誠，滝沢寛之，山崎一生，山本正信，``Haarウェーブレットを用いた画像の分類，''電気学会東京支部新潟支所研究発表会予稿集，pp.50，2002．
+長谷川誠，``濃淡画像の自動データ圧縮アーカイビングに関する考察，''信学総大，2003．
+三河賢治，長谷川誠，``直角二等辺三角形の二等分割とその頂点数について，''LAシンポジウム，京都大学数理解析研究所講究録，No.1375，pp.171-173，May 2004．
+長谷川誠，田島慎一，長井啓友，``Watershed領域分割による Semantic ObjectのRidgelet表現，''信学総大，A-6-5，2004．
+長谷川誠，田島慎一，``Watershed領域分割による濃淡画像のRidgelet変換，''PCSJ2004，P-2.09，pp.25-26，Nov. 2004．
+M. Hasegawa and S. Tajima, ``A Ridgelet Representation of Semantic Objects on Grayscale Pictures - A Study of Object Rotation -,'' Technical Report of IEICE, IE2004-130, pp.37-42, Jan. 2005.
+長谷川誠，田中一基，石原聖司，徐丙鉄，金指正和，森脇博史，``Ridgelet-Hough変換を用いた足跡画像符号化に関する考察－符号化方法の提案および従来法との特徴比較－，''信学技報，SIP2005-100，ICD2005-119，IE2005-64，Oct. 2005．
+黒瀬能聿，高山智行，徐丙鉄，長谷川誠，田中一基，``バーチャル学習システム開発の取り組み，''教育システム情報学会研究報告，20，4，pp.49-52，Nov. 2005．
+漆山龍哉，三河賢治，長谷川誠，``ビット列で表現された完全二分木の線形時間判定アルゴリズム，''LAシンポジウム，京都大学数理解析研究所講究録，Jan. 2006．
+長谷川誠，三河賢治，岩田英三郎，廣瀬治人，``Log-Polar変換による静脈画像の位置ずれ補正装置の提案，''信学技報，IE2006-13，pp.7-12, May 2006．
+山本哲也，岩田英三郎，廣瀬治人，長谷川誠，``Log-Polar変換による静脈認証システムの評価，''電気情報関連学会中国支部連合大会，pp.135-136，Oct. 2006．
+山口雅人，中村遼太，廣瀬慎也，長谷川誠，``Radon変換による足跡画像符号化-テンプレートマッチングと誤差-''，PCSJ2006，Nov. 2006．
+廣瀬慎也，中村遼太，山口雅人，長谷川誠，``研究室展示：犯罪捜査における足跡認識に関する研究，''The 8th IEEE Hiroshima Student Symposium，広島市立大学，Nov. 2006．
+山本哲也，岩田英三郎，廣瀬治人，長谷川誠，``Log-Polar変換による静脈画像のテンプレートマッチング，''映像情報メディア学会冬季大会，Dec. 2006．
+長谷川誠，``Radon変換ドメインの対数自己相関による拡大縮小・平行移動・回転不変性の考察，''信学技報，CS2006-53，IE2006-121，pp.31-36，Dec. 2006．
+田中一基，長谷川誠，黒瀬能聿，小林規矩男，``武道の熟練技の修得を支援するための動作マイニング法，''信学技報，ET2006-105，pp.127-132，Jan. 2007．
+森脇博史，岡崎昌史，長谷川誠，金指正和，``遺留画像検索照合システムへの自動パターン抽出およびマッチング機能の実装，''日本経営工学会中国四国支部研究論文発表会論文集，13，pp.31-36，Mar. 2007．
+田中一基，長谷川誠，小林規矩男，黒瀬能聿，``武道の修得支援のための攻防スキル抽出法，''第21回人工知能学会全国大会，June 2007．
+長谷川誠，``Radon変換の対数自己相関による物体照合，''信学技報，SIP2007， June 2007．
+山口雅人，長谷川誠，金指正和，``Radon変換による足跡画像符号化－認識率の評価－，''映像情報メディア学会年次大会，Aug. 2007．
+山口雅人，新田信雄，長谷川誠，森脇博史，``Radon変換対数自己相関を用いた足跡認識－システムの評価－，''日本経営工学会中国四国支部研究論文発表会，Oct. 2007．
+山口雅人，長谷川誠，金指正和，``Radon変換の対数自己相関による足跡画像符号化の評価-位相限定相関法との比較-，''The 9 th IEEE Hiroshima Student Symposium，Nov. 2007．
+島拓矢，岩田英三郎，廣瀬治人，長谷川誠，``携帯端末向け静脈認証システムの評価，''映像情報メディア学会冬季大会，Dec. 2007．
+M. Hasegawa, ``Recognition Performance of Pattern Matching Using Log Autocorrelation on Radon Transform -,'' Technical Report of IEICE, IE2007-107, pp.13-18, Dec. 2007.
+藤原知久，山口雅人，長谷川誠，``足跡画像認識のための標準画像データ製作と評価，''電子情報通信学会総合大会学生ポスターセッション，Mar. 2008．
+島拓矢，岩田英三郎，廣瀬治人，長谷川誠，``Radon変換対数自己相関法を用いた静脈認証システムの評価－位相限定相関法との比較と複数回認証による認識率の向上－，''電子情報通信学会総合大会学生ポスターセッション，Mar. 2008．
+田中一基，長谷川誠，小林規矩男，黒瀬能聿，``空手道競技の戦術修得のためのデータマイニング，''人工知能学会研究会資料，SIG-ALST-A703-01，pp.1-7，2008．
+増田浩章，山口雅人，長谷川誠，``振幅限定対数Radon変換による足跡画像符号化，''信学ソ大，B-18-3，Sept. 2008．
+長谷川誠，``振幅限定対数ラドン変換を用いたパターンマッチング，''映像メディア処理シンポジウム(IMPS2008)，pp.131-132，Oct. 2008．
+山口雅人，森脇博史，長谷川誠，``足跡認識システムの評価，''日本経営工学会中国四国支部研究論文発表会，Oct. 2008．
+山口雅人，長谷川誠，``振幅限定対数ラドン変換による足跡認識，''第23回信号処理シンポジュウム，pp.362-367，Nov. 2008．
+増田浩章 ，秦直也，山本貴晴，山口雅人，長谷川誠，``研究室展示：足跡画像認識プロジェクト，''The 10th IEEE Hiroshima Student Symposium，広島県立広島産業会館，Nov. 2008．
+西田裕迪，長谷川誠，``振幅限定ラドン変換によるパターンマッチング－被写体の姿勢と類似度－，''The 10th IEEE Hiroshima Student Symposium予稿集，pp.210-213，広島県立広島産業会館，Nov. 2008．
+増田浩章，山口雅人，長谷川誠，``振幅限定対数Ｒａｄｏｎ変換による足跡画像認識－足跡認識システムKOUSUKEの構築－，''電子情報通信学会総合大会学生ポスターセッション，愛媛大学，Mar. 2009．
+西田裕迪，長谷川誠，``振幅限定対数ラドン変換によるパターンマッチング－フーリエメリン変換法・位相限定相関法との比較－，''電子情報通信学会総合大会学生ポスターセッション，愛媛大学，Mar. 2009．
+長谷川誠，``距離場と3次元ラドン変換を用いたサーフェスモデルレジストレーションの検討，''2009年電子情報通信学会ソサエティ大会，基礎境界講演論文集，A-4-6，pp.69，新潟大学，Sept. 2009．
+長谷川誠，``距離場と3次元ラドン変換を用いたサーフェスモデルレジストレーションの提案，''電子情報通信学会信号処理研究会，信学技報，SIP2009-52，pp83-88，広島大学，Sept. 2009．
+岡芳樹，松下知紀，長谷川誠，``R-transformを用いた中世英語活字の記述，''平成21年度電気・情報関連学会中国支部連合大会，広島市立大学，Oct. 2009．
+増田浩章，長谷川誠，``振幅限定対数ラドン変換による足跡画像照合，''近畿大学サイエンスネットワーク院生サミット，近畿大学，Nov. 2009．
+岡芳樹，長谷川誠，``ラドン変換を用いた中世英語活字認識，''近畿大学サイエンスネットワーク院生サミット，近畿大学，Nov. 2009．
+島哲矢，長谷川誠，田島慎一，``３次元ラドン変換を用いたサーフェスモデルレジストレーション―位置ずれ・回転ずれの評価―，''情報処理学会創立50周年記念（第72回）全国大会，2，pp. 571-572，Mar. 2010．
+岡芳樹，松下知紀，長谷川誠，``R-transform を用いた中世英語活字の認識，''電子情報通信学会総合大会学生ポスターセッション，東北大学，Mar. 2010．
+増田浩章，長谷川誠，``ベイズ推定を用いた足跡識別の検討，''電子情報通信学会総合大会学生ポスターセッション，東北大学，Mar. 2010．
+西田裕迪，長谷川誠，``距離場と3 次元ラドン変換を用いたサーフェスモデルレジストレーションの検討，''電子情報通信学会総合大会学生ポスターセッション，東北大学，Mar. 2010．
+朴陽朝，長谷川誠，``Ridgelet 変換を用いたX 線CT 画像再構成の検討，''電子情報通信学会総合大会学生ポスターセッション，東北大学，Mar. 2010．
+安原秀樹，井原圭一，上野宰，石原庸平，長谷川誠，``自動車部品の外観検査システムの構築，''電子情報通信学会総合大会学生ポスターセッション，東北大学，Mar. 2010．
+長谷川誠，``ラドン変換の生体認証への応用，''筑波大学数理物質科学研究科数学専攻解析セミナー，June 2010．
+岡芳樹，岩田英三郎，釜中博樹，長谷川誠，``ASMのガイドを用いたSURFによる顔認証法の検討，''電子情報通信学会信越支部大会，長岡技術科学大学，Oct. 2010．
+西内佑介，岩田英三郎，釜中博樹，長谷川誠，``ICPアルゴリズムを用いた手の甲の３次元形状による個人認証の検討，''電気・情報関連学会中国支部連合大会，岡山県立大学，Oct. 2010．
+安原秀樹，岩田英三郎，釜中博樹，長谷川誠，``SURFによる顔認証の検討 - Active Shape Model によるキーポイントの絞り込み -，''電気・情報関連学会中国支部連合大会，岡山県立大学，Oct. 2010．
+掛川裕朗，石原庸平，上野宰，水津俊介，長谷川誠，``自動車部品製造における外観検査システムの検討，''電子情報通信学会総合大会学生ポスターセッション，東京都市大学，Mar. 2011．
+安原秀樹，岩田英三郎，釜中博樹，長谷川誠，``SURFによる顔認証の検討―ASMのガイドにおける認識率の評価―，''電子情報通信学会総合大会学生ポスターセッション，東京都市大学，Mar. 2011．
+安原秀樹，岩田英三郎，釜中博樹，小林規矩男，長谷川誠，``ASMガイドを用いたSURFによる顔認証の検討－認識率の評価と顔の向きについての耐性－，''映像情報メディア学会年次大会，9-3，成蹊大学，Aug. 2011．
+長谷川誠，``ラドン変換を用いたアフィン変換に頑健なパターンマッチング，''筑波大学数理物質科学研究科数学専攻解析セミナー，Nov. 2012．
+長谷川誠，``ラドン変換を用いたパターン認識と画像解析への応用について，''研究集会：非破壊検査の数理－実用に必要な理論－，九州大学，Feb. 2013．
+飯尾孝平，釜中博樹，岩田英三郎，長谷川誠，``ラドン変換を用いた携帯カメラ端末用ポインティングデバイスの検討，''映像情報メディア学会年次大会，工学院大学，Aug. 2013．
+長谷川誠，``Affine Invariant Shape Matching Using Radon Transform and Dynamic Time Warping Distance,'' 中原大学（台湾）との共同フォーラム，Nov. 2013．
+飯尾孝平，釜中博樹，岩田英三郎，長谷川誠，``ラドン変換を用いたカメラ付き携帯端末用ポインティングデバイスの構築，''信号処理シンポジウム，海峡メッセ下関，Nov. 2013．
+伊藤光彦，長谷川誠，``ラドン・ヒストグラム変換を用いたモバイル形状認識システムの検討，''映像情報メディア学会冬季大会，芝浦工業大学，Dec. 2013．
+伊藤光彦，長谷川誠，``ラドン・ヒストグラム変換を用いたモバイル文字認識の検討，''情報処理学会全国大会，東京電機大学，Mar. 2014．
+新村拓哉，岩田 英三郎，釜中博樹，高橋侑孝，長谷川誠，``ペーパクラフトとディジタルペンによる三次元立体への筆記検討，''第13回情報科学技術フォーラム(FIT2014)，3, pp.171-172，筑波大学，Sept 2014．
+阿部隼也，長谷川誠，``カメラ映像からの三次元復元技術を用いた災害状況の把握，''第２回 CRC フォーラム，東京電機大学，Sept. 2014．
+新村拓哉，高橋侑孝，長谷川誠，``ペーパクラフトとディジタルペンによる三次元立体への筆記検討，''気づき会，株式会社夢創赤羽オフィス，Nov. 2014．
+渡邊瑞己，ステファニック・ヤン，岩田 英三郎，釜中 博樹，長谷川 誠，”SfM を用いた写真による成りすましの検出検討，”映像情報メディア学会冬季大会，11-2，東京理科大，神楽坂キャンパス，Dec. 2014．
+長谷川誠，石原聖司，古川貴雄，滝口孝志，``ラドン変換と非線型マッチングによるアフィン変形不変な文字認識方法の提案,'' 信学技報，PRMU2014-115，pp.19-24, 東北大学，Feb. 2015．
+長谷川誠，石原聖司，古川貴雄，滝口孝志，``非線型マッチングによるせん断変形不変な照合に関する一考察，''電子情報通信学会総合大会，D-12-13，pp.65，立命館大学，Mar. 2015．
+長谷川誠，``顔認証装置を用いた保育園のソーシャルグラフ生成に関する研究，''気づき会，株式会社夢創赤羽オフィス，June 2015．
+石橋卓也，岩田 英三郎，釜中博樹，高橋侑孝，長谷川誠，“ディジタルペンとペーパクラフトによる3DCGへの筆記，”映像情報メディア学会年次大会，21-D2，東京理科大学，Aug. 2015．
+渡邊瑞己，長谷川 誠，”可視光で撮影された静脈画像の鮮明化，”CRCフォーラム，東京電機大学，Sept. 2015．
+紀要，大学研究報告
+
+長谷川誠，``新潟大学総合情報ネットワークの現状，''新潟大学総合情報処理センター年報，10，pp.31-36，Mar. 1999．
+長谷川誠，``技術職員研修「JAVA言語によるオブジェクト指向分析入門，''新潟大学総合情報処理センター年報，11，pp.27-33，Mar. 2000．
+長谷川誠，``新潟大学総合情報ネットワークの更新，''新潟大学総合情報処理センター年報，12，pp.21-41，Mar. 2001．
+長谷川誠，大場慎子，鈴木真里子，``無線LANシステムを用いた個人所有パソコンの利用，''新潟大学総合情報処理センター年報，13，pp.5-15，Sept. 2002．
+長谷川誠，``情報処理部門の概要と達成目標－ネットワークとセキュリティ教育の試み－，''大学教育研究年報，新潟大学大学教育開発研究センター，8，pp.169-171，2003．
+長谷川誠，田中一基，石原聖司，徐丙鉄，金指正和，森脇博史，``Ridgelet-Hough変換を用いた足跡画像符号化に関する考察－符号化方法の提案および従来法との特徴比較－，''近畿大学工業技術研究所研究報告書，5，pp.37-44，2005．
+長谷川誠，三河賢治，岩田英三郎，廣瀬治人，``Log-Polar変換による静脈画像の位置ずれ補正装置の提案，''近畿大学工業技術研究所研究報告書，6，2006．
+小林規矩男，田中一基，長谷川誠，黒瀬能聿，``スポーツやリハビリテーションにおけるバーチャル学習実習および技能習得支援システム，''，近畿大学工業技術研究所研究報告書，7，pp.45-51，2007．
+長谷川誠，``パターンマッチングにおける振幅限定対数ラドン変換の提案，''近畿大学工業技術研究所研究報告書，8，pp.15-20，2008．
+長谷川誠，``距離場と3次元ラドン変換を用いたサーフェスモデルレジストレーションの提案，''近畿大学工業技術研究所研究報告書，9，pp.43-50，2009．
+著書，雑誌（解説）
+
+情報機器操作入門編集委員会，情報機器操作入門(第1刷)，学術図書出版社，1998
+情報機器操作入門編集委員会，情報機器操作入門(第2刷)，学術図書出版社，2000
+長谷川誠，田島慎一，``濃淡画像のRidgelet変換符号化－Watershed領域分割とセマンティックオブジェクトの回転－，''画像ラボ，1月号，日本工業出版，pp.1-5，2006．
+長谷川誠，``振幅限定対数ラドン変換を用いたパターンマッチング－被写体の平行移動・回転・拡大縮小に強い物体認識－，''画像ラボ，12月号，日本工業出版，pp.17-21，2008．
+長谷川誠，金指正和，田中一基，片岡隆之``，振幅限定対数ラドン変換による足跡画像の照合，''画像ラボ，11月号，日本工業出版，pp.34-38，2011．
+特許
+
+Ridgelet変換を用いた足跡などの慰留画像鑑定方法及び装置
+発明者：長谷川誠，田中一基，石原聖司，金指正和，森脇博史，
+出願人：（株）広島情報シンフォニー，近畿大学
+番号：特願2006-79720，特開2007-226756
+Log-Polar変換を用いた静脈認証画像の補正装置及び方法
+発明者：長谷川誠，岩田英三郎
+出願人：ユニバーサルロボット株式会社，近畿大学
+番号：特願2006-86485，特開2007-233981
+パターンマッチング方法及びパターンマッチング装置
+発明者：長谷川誠，岩田英三郎
+出願人：ユニバーサルロボット株式会社，近畿大学
+出願番号：特願2007-090304，特開2008-250610
+個人認証装置及び個人認証方法
+発明者：長谷川誠，岩田英三郎
+出願人：ユニバーサルロボット株式会社，近畿大学
+出願番号：国際出願PCT/JP2010/62775
+受賞
+
+電気通信普及財団テレコムコロンブス賞(1993)
+電気学会東京支部新潟支所優秀発表賞(1995)
+国際会議 ACM SAC ベストペーパ賞(2012)
+研究プロジェクト，受託研究，助成
+
+``Ridgelet変換を用いた画像データ表現に関する研究，''平成１６年度新潟大学プロジェクト推進経費（若手研究者奨励研究），500K，2004．
+``腕時計型PCによる静脈認証ソフトウェアの回転画像補正，''受託研究，ユニバーサルロボット株式会社，1000K，2005．
+``静脈認証技術を基盤としたユビキタス個人認証システムの研究開発，''受託研究，ユニバーサルロボット株式会社，1000K，2006．
+``Radon変換を用いた拡大縮小・平行移動・回転に不変なパターンマッチング法の提案，''近畿大学研究助成，500K，2007．
+``足跡画像認識システムの研究開発，''学内開発プロジェクト，近畿大学工学部，450K，2007．
+``タイリング高速化についての研究，''受託研究，株式会社イノテック，500K，2009．
+``自動車部品の外観検査に関する研究，''受託研究，株式会社ワイテック，500K，2009．
+``ラドン変換を用いたパターンマッチング法によるバイオメトリックス認証への応用，''寄付研究，高橋産業経済研究財団，1000K，2009．
+``ラドン変換を用いた2次元・3次元生体認証の検討と応用展開 ，''2011-2014年度 科学研究費補助金 若手研究(C) 研究課題番号：23500234（海外転出につき取下げ）
+``画像処理研究に関するプロジェクト推進のため，’’ユニバーサルロボット株式会社，寄付研究，研究費50万円，2014年5月．
+``社員の面たるヘルスを音声と画像で判断するロボットの試作品開発，’’ユニバーサルロボット株式会社，受託研究，研究費108万円，2014年8月―2015年4月．
+``ラドン変換と弾性マッチングによる斜め撮影に頑健な形状認識，''2014-2017年度 科学研究費補助金 若手研究(C) 研究課題番号：26330206
+``オープンイノベーションからみた萌芽的研究領域における発展要因の定量分析，''2014-2017年度（分担研究者） 科学研究費補助金 若手研究(C) 研究課題番号：26330375
+教育
+
+画像処理工学（東京電機大学）
+マルチメディア通信工学（東京電機大学）
+マルチメディア工学（東京電機大学）
+コンピュータ基礎および演習（東京電機大学）
+データ構造とアルゴリズム（東京電機大学）
+パターン認識特論（東京電機大学）
+情報通信工学全体輪講（東京電機大学）
+情報通信工学特別研究（東京電機大学）
+情報通信基礎実験（東京電機大学）
+ワークショップ（東京電機大学）
+グループスタディ（東京電機大学）
+コンピュータ基礎実習１[情報リテラシ]（近畿大学）
+コンピュータ基礎実習２[データ構造とアルゴリズム，Ｃ言語]（近畿大学）
+コンピュータ概論[情報工学基礎]（近畿大学）
+データベース管理（近畿大学）
+コンピュータセキュリティ（近畿大学）
+情報通信ネットワーク（近畿大学）
+アルゴリズムとデータ構造（近畿大学）
+データウェアハウス（近畿大学）
+シミュレーション実習（近畿大学）
+情報システム工学基礎実習（近畿大学）
+フレッシュマンゼミナール（近畿大学）
+情報工学基礎実習（近畿大学）
+卒業研究ゼミナール（３年生）（近畿大学）
+卒業研究（近畿大学）
+シスコアカデミー（新潟大学，近畿大学）
+家庭工学[電気回路]（新潟大学）
+マルチメディア概論 （新潟大学）
+ネットワーク概論 （新潟大学）
+ネットワーク構成論（新潟大学）
+コンピュータセキュリティ入門 （新潟大学）
+UNIXリテラシー演習（新潟大学）
+情報機器操作入門 （新潟大学）
+プログラミング演習：Pascal（新潟経営大学）
+情報処理演習：情報リテラシー（新潟経営大学）
+地域貢献
+
+新潟県三条市IT戦略会議 副会長，2001．
+長谷川誠，``新潟大学におけるセキュリティ事情とその対策―オープンスペースを利用するためのセキュリティ対策とは―，''平成12年度新潟県大学図書館協議会研修会，Mar. 2001．
+長谷川誠，``Ridgelet変換を用いた画像処理，''新潟大学シーズプレゼンテーション，Sept. 2004．
+長谷川誠，田中一基，石原聖司，徐丙鉄，金指正和，森脇博史，``Ridgelet-Hough変換を用いた足跡画像符号化，''近畿大学工学部研究公開フォーラム，Oct. 2005．
+長谷川誠，``インターネットの未来と情報通信，''出張講義，香川
